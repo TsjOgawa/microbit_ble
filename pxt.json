@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "bluetooth": "*"
+        "bluetooth": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.5.4"
     },
     "files": [
         "main.blocks",
